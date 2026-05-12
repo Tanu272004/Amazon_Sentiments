@@ -11,7 +11,7 @@ import random
 from textblob import TextBlob
 
 # -------------------------------
-# STEP 1: Generate Synthetic Amazon Review Dataset
+# STEP 1: Generate Synthetic Customers Review Dataset
 # -------------------------------
 
 fake = Faker()
